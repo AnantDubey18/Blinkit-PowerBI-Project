@@ -5,20 +5,20 @@ This project is a **Power BI dashboard** built on the Blinkit dataset to analyze
 The dashboard provides an **interactive and visual summary** of the data, enabling better business decisions through data-driven insights.  
 
 Key Insights
-- Total Sales: $336.40K  
+- Total Sales: $1.20M  
 - Average Rating: 3.9  
-- Number of Items Analyzed**: 2388  
+- Number of Items Analyzed**: 8523
 - Outlet Analysis:  
   - Supermarket Type 1 generated the highest sales ($262.59K).  
   - Grocery Stores contributed $73.81K.  
 - Fat Content Sales:  
-  - Regular items: $215.05K  
-  - Low Fat items: $121.35K  
+  - Regular items: $425.36K  
+  - Low Fat items: $736.32K  
 - Top Selling Item Categories:  
-  - Fruits & Vegetables → $50K  
-  - Snack Foods → $49K  
-  - Household → $38K  
-  - Dairy → $30K  
+  - Fruits & Vegetables → $0.18M  
+  - Snack Foods → $0.18M
+  - Household → $0.14M
+  - Dairy → $0.10M
 - Sales dropped significantly in 2018 compared to previous years.  
 
 Tools & Technologies Used
